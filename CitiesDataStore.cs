@@ -64,8 +64,9 @@ namespace CityInfo.API
                           new PointOfInterestDto() {
                              Id = 6,
                              Name = "The Louvre",
-                             Description = "The world's largest museum." },
-                     }
+                             Description = "The world's largest museum." 
+                             },
+                     },
                 }
             };
 
