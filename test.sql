@@ -10,7 +10,7 @@ FROM
 WHERE
 	TABLE_NAME = 'Cities'
 
-sp_help cityInfoDB
+sp_help Cities
 
 USE master;
 GO
